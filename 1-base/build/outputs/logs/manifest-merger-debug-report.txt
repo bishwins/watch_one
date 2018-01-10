@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:18:1-59:12
+INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:18:1-59:12
+INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:18:1-59:12
+INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:18:1-59:12
+MERGED from [com.google.android.support:wearable:2.0.0] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/wearable-2.0.0.aar/ce6cdeb92c8cae5a3528d45c676a935a/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-wearable-10.2.1.aar/22ffee217c3e8b4d25f7d0269d0b1292/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:percent:23.0.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/percent-23.0.1.aar/36e0cf89ef7bd845490374e780699306/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/12d155ffc576013e0ae9be3e040437c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/f026f7999600adba1bf3903be246d9fd/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/862ff640cf03e630eb54b667dc6d55d4/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/449c8f7be723d141212e183125519d96/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:24.0.0] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/04f80b33a90fdf498849e082c145d3b1/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:18:1-59:12
+INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:18:1-59:12
+INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:18:1-59:12
+	package
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:20:5-44
+		INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml
+		INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:18:1-59:12
+		INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:19:5-51
+	android:versionCode
+		INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:18:1-59:12
+		INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:18:11-69
+uses-feature#android.hardware.type.watch
+ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:22:5-64
+	android:name
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:22:19-61
+uses-permission#com.google.android.permission.PROVIDE_BACKGROUND
+ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:25:5-88
+	android:name
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:25:22-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:26:22-65
+application
+ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.android.support:wearable:2.0.0] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/wearable-2.0.0.aar/ce6cdeb92c8cae5a3528d45c676a935a/AndroidManifest.xml:6:5-19
+MERGED from [com.google.android.support:wearable:2.0.0] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/wearable-2.0.0.aar/ce6cdeb92c8cae5a3528d45c676a935a/AndroidManifest.xml:6:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-wearable-10.2.1.aar/22ffee217c3e8b4d25f7d0269d0b1292/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-wearable-10.2.1.aar/22ffee217c3e8b4d25f7d0269d0b1292/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:percent:23.0.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/percent-23.0.1.aar/36e0cf89ef7bd845490374e780699306/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:percent:23.0.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/percent-23.0.1.aar/36e0cf89ef7bd845490374e780699306/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/f026f7999600adba1bf3903be246d9fd/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/f026f7999600adba1bf3903be246d9fd/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/862ff640cf03e630eb54b667dc6d55d4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/862ff640cf03e630eb54b667dc6d55d4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/449c8f7be723d141212e183125519d96/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/449c8f7be723d141212e183125519d96/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/04f80b33a90fdf498849e082c145d3b1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/04f80b33a90fdf498849e082c145d3b1/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:30:9-41
+	tools:ignore
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:32:9-46
+	android:allowBackup
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:31:9-59
+service#com.android.example.watchface.MyWatchFaceService
+ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:33:9-52:19
+	android:label
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:35:13-51
+	android:permission
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:36:13-67
+	android:name
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:34:13-47
+meta-data#android.service.wallpaper
+ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:37:13-39:54
+	android:resource
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:39:17-51
+	android:name
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:38:17-57
+meta-data#com.google.android.wearable.watchface.preview
+ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:40:13-42:63
+	android:resource
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:42:17-60
+	android:name
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:41:17-77
+meta-data#com.google.android.wearable.watchface.preview_circular
+ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:43:13-45:63
+	android:resource
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:45:17-60
+	android:name
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:44:17-86
+intent-filter#android.service.wallpaper.WallpaperService+com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:47:13-51:29
+action#android.service.wallpaper.WallpaperService
+ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:48:17-85
+	android:name
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:48:25-82
+category#com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:50:17-102
+	android:name
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:50:27-99
+meta-data#com.google.android.gms.version
+ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:54:9-56:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/449c8f7be723d141212e183125519d96/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/449c8f7be723d141212e183125519d96/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:56:13-66
+	android:name
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml:55:13-58
+uses-sdk
+INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml
+INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml
+MERGED from [com.google.android.support:wearable:2.0.0] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/wearable-2.0.0.aar/ce6cdeb92c8cae5a3528d45c676a935a/AndroidManifest.xml:4:5-72
+MERGED from [com.google.android.support:wearable:2.0.0] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/wearable-2.0.0.aar/ce6cdeb92c8cae5a3528d45c676a935a/AndroidManifest.xml:4:5-72
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-wearable-10.2.1.aar/22ffee217c3e8b4d25f7d0269d0b1292/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-wearable-10.2.1.aar/22ffee217c3e8b4d25f7d0269d0b1292/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:percent:23.0.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/percent-23.0.1.aar/36e0cf89ef7bd845490374e780699306/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:percent:23.0.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/percent-23.0.1.aar/36e0cf89ef7bd845490374e780699306/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/12d155ffc576013e0ae9be3e040437c8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/12d155ffc576013e0ae9be3e040437c8/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/f026f7999600adba1bf3903be246d9fd/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/f026f7999600adba1bf3903be246d9fd/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/862ff640cf03e630eb54b667dc6d55d4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/862ff640cf03e630eb54b667dc6d55d4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/449c8f7be723d141212e183125519d96/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/449c8f7be723d141212e183125519d96/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/04f80b33a90fdf498849e082c145d3b1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.0.0] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/04f80b33a90fdf498849e082c145d3b1/AndroidManifest.xml:21:5-23:54
+INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml
+INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/04f80b33a90fdf498849e082c145d3b1/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml
+		INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml
+		ADDED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml
+		INJECTED from /Users/chrisbishop/Desktop/watchface-master2/1-base/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/f026f7999600adba1bf3903be246d9fd/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/f026f7999600adba1bf3903be246d9fd/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/f026f7999600adba1bf3903be246d9fd/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/chrisbishop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/f026f7999600adba1bf3903be246d9fd/AndroidManifest.xml:19:19-85
